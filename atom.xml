@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/刘静/Documents/Gridea/output</id>
-    <title>Gridea</title>
-    <updated>2019-08-09T06:09:20.476Z</updated>
+    <id>http://hackyu.coding.me/Blog/</id>
+    <title>守夜人</title>
+    <updated>2019-08-09T07:06:44.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/刘静/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/刘静/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="http://hackyu.coding.me/Blog/"/>
+    <link rel="self" href="http://hackyu.coding.me/Blog//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>C:/Users/刘静/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/刘静/Documents/Gridea/output/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <logo>http://hackyu.coding.me/Blog//images/avatar.png</logo>
+    <icon>http://hackyu.coding.me/Blog//favicon.ico</icon>
+    <rights>All rights reserved 2019, 守夜人</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/刘静/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/刘静/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>http://hackyu.coding.me/Blog//post/hello-gridea</id>
+        <link href="http://hackyu.coding.me/Blog//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
