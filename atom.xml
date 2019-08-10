@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jchwl0527.github.io/www/</id>
+    <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-10T11:57:00.249Z</updated>
+    <updated>2019-08-10T12:14:05.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jchwl0527.github.io/www/"/>
-    <link rel="self" href="https://jchwl0527.github.io/www//atom.xml"/>
+    <link rel="alternate" href="https://jchwl0527.github.io/www"/>
+    <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://jchwl0527.github.io/www//images/avatar.png</logo>
-    <icon>https://jchwl0527.github.io/www//favicon.ico</icon>
+    <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
+    <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jchwl0527.github.io/www//post/hello-gridea</id>
-        <link href="https://jchwl0527.github.io/www//post/hello-gridea">
+        <id>https://jchwl0527.github.io/www/post/hello-gridea</id>
+        <link href="https://jchwl0527.github.io/www/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
