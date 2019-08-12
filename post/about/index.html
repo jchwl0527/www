@@ -19,7 +19,7 @@
      <div class="header">
       <div class="logo_title">
 		  
-        <div class="title animated fadeInDown"><img src="https://jchwl0527.github.io/www/images/avatar.png?v=1565577494958"/>
+        <div class="title animated fadeInDown"><img src="https://jchwl0527.github.io/www/images/avatar.png?v=1565579278054"/>
 
           <h1 title="守夜人" class="weaklink"><a href="/">守夜人</a>
 
@@ -195,26 +195,29 @@
 <div class="doc_comments">
 
           
-			  
-          
-            <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css">
-<script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-<div id="disqus_thread"></div>
+<div id="gitalk-container"></div>
 
 <script>
 
-var options = {
-  shortname: 'syr66',
-  apikey: 'TMrt4R0q6qatBxodHFLtKHAmmpXbxClaTAGuOIEFV46muhEoB9Ft4n4UCDmyepxI',
-}
-if ('https://disqus.skk.moe/disqus/') {
-  options.api = 'https://disqus.skk.moe/disqus/'
-}
-var dsqjs = new DisqusJS(options)
+  var gitalk = new Gitalk({
+    clientID: 'c1ddfd3600160f0e77c5',
+    clientSecret: '9436aeb0114d25a8aec5b025e3d5864718bf5e64',
+    repo: 'https://github.com/jchwl0527/www',
+    owner: 'jchwl0527',
+    admin: ['jchwl0527'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
 
 </script>
 
+          
+			  
           
         
 </div>
