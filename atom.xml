@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-19T13:06:18.479Z</updated>
+    <updated>2019-08-19T13:15:23.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -10,22 +10,6 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
-    <entry>
-        <title type="html"><![CDATA[写博客怎么可能少得了这个视频]]></title>
-        <id>https://jchwl0527.github.io/www/post/Bad_Apple</id>
-        <link href="https://jchwl0527.github.io/www/post/Bad_Apple">
-        </link>
-        <updated>2019-08-19T11:28:41.000Z</updated>
-        <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-  <iframe src="//http://player.bilibili.com/player.html?aid=706&cid=3724723&page=1" 
-          scrolling="no" 
-          border="0" 
-          frameborder="no" 
-          framespacing="0" 
-          allowfullscreen="true" 
-          style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[倘若这个世界依旧温暖]]></title>
         <id>https://jchwl0527.github.io/www/post/O_O</id>
