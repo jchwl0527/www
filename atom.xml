@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-20T13:19:55.467Z</updated>
+    <updated>2019-08-20T13:21:43.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://jchwl0527.github.io/www/post/test</id>
+        <link href="https://jchwl0527.github.io/www/post/test">
+        </link>
+        <updated>2019-08-20T13:21:06.000Z</updated>
+        <content type="html"><![CDATA[<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倘若这个世界依旧温暖]]></title>
         <id>https://jchwl0527.github.io/www/post/O_O</id>
