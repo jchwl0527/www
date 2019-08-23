@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-23T02:37:01.538Z</updated>
+    <updated>2019-08-23T04:09:02.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[忒修斯之船 （悖论）]]></title>
+        <id>https://jchwl0527.github.io/www/post/Theseus</id>
+        <link href="https://jchwl0527.github.io/www/post/Theseus">
+        </link>
+        <updated>2019-08-23T04:06:49.000Z</updated>
+        <content type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
+<p>公元1世纪的时候普鲁塔克提出一个问题：如果忒修斯的船上的木头被逐渐替换，直到所有的木头都不是原来的木头，那这艘船还是原来的那艘船吗？<br>
+因此这类问题现在被称作“忒修斯之船”的问题。<br>
+有些哲学家认为是同一物体，有些哲学家认为不是。<br>
+在普鲁塔克之前，赫拉克利特、苏格拉底、柏拉图都曾经讨论过相似的问题。<br>
+近代霍布斯和洛克也讨论过该问题。<br>
+这个问题的有许多变种，如“祖父的旧斧头”。</p>
+<p>特修斯之船（The Ship of Theseus），最为古老的思想实验之一。<br>
+最早出自普鲁塔克的记载。<br>
+它描述的是一艘可以在海上航行几百年的船，归功于不间断的维修和替换部件。<br>
+只要一块木板腐烂了，它就会被替换掉，以此类推，直到所有的功能部件都不是最开始的那些了。<br>
+问题是，最终产生的这艘船是否还是原来的那艘特修斯之船，还是一艘完全不同的船？<br>
+如果不是原来的船，那么在什么时候它不再是原来的船了？<br>
+哲学家托马斯·霍布斯后来对此进行了延伸，如果用特修斯之船上取下来的老部件来重新建造一艘新的船，那么两艘船中哪艘才是真正的特修斯之船？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web端网易云音乐刷听歌量（Javascript）]]></title>
+        <id>https://jchwl0527.github.io/www/post/music.163.com</id>
+        <link href="https://jchwl0527.github.io/www/post/music.163.com">
+        </link>
+        <updated>2019-08-23T04:01:24.000Z</updated>
+        <content type="html"><![CDATA[<p>网易云音乐的听歌量计数策略是：</p>
+<ul>
+<li>
+<p>收听时间过短不计</p>
+</li>
+<li>
+<p>重复收听不计</p>
+</li>
+<li>
+<p>每天上限300首</p>
+</li>
+<li>
+<p>Web端和Windows、Android、iPhone、MAC客户端均计数</p>
+</li>
+</ul>
+<p>根据这些策略，最好的办法就是使用Web端，因为有Console这个神器。</p>
+<p>首先打开Chrome或Firefox浏览器，进入<a href="http://music.163.com">网易云音乐</a>，然后找个歌曲多一点的歌单，添加到播放列表。</p>
+<p>接着用F12调出控制台，进入Console选项卡</p>
+<p>然后输入代码</p>
+<pre><code>setInterval('document.getElementsByClassName(&quot;nxt&quot;)[0].click();console.log(&quot;Play OJBK. Next&quot;)',90000);
+</code></pre>
+<p>原理是通document.getElementsByClassName找到classname为nxt的按钮，其实也就是下一首的播放按钮，然后执行click操作。每90秒执行一次。</p>
+<p>这样，90秒就会播放一首歌，妈妈再也不用担心我升不了级啦<sub>(≧▽≦)/</sub>啦</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cassell字体测试]]></title>
         <id>https://jchwl0527.github.io/www/post/zi-ti-ce-shi</id>
