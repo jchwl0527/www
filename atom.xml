@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-21T13:02:05.640Z</updated>
+    <updated>2019-08-23T02:37:01.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -11,13 +11,27 @@
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://jchwl0527.github.io/www/post/test</id>
-        <link href="https://jchwl0527.github.io/www/post/test">
+        <title type="html"><![CDATA[Cassell字体测试]]></title>
+        <id>https://jchwl0527.github.io/www/post/zi-ti-ce-shi</id>
+        <link href="https://jchwl0527.github.io/www/post/zi-ti-ce-shi">
         </link>
-        <updated>2019-08-20T13:21:06.000Z</updated>
-        <content type="html"><![CDATA[<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+        <updated>2019-08-23T02:34:47.000Z</updated>
+        <content type="html"><![CDATA[<p>Cassell<br>
+𝐂𝐚𝐬𝐬𝐞𝐥𝐥<br>
+𝐶𝑎𝑠𝑠𝑒𝑙𝑙<br>
+𝑪𝒂𝒔𝒔𝒆𝒍𝒍<br>
+𝖢𝖺𝗌𝗌𝖾𝗅𝗅<br>
+𝗖𝗮𝘀𝘀𝗲𝗹𝗹<br>
+𝘊𝘢𝘴𝘴𝘦𝘭𝘭<br>
+𝘾𝙖𝙨𝙨𝙚𝙡𝙡<br>
+𝒞𝒶𝓈𝓈ℯ𝓁𝓁<br>
+𝓒𝓪𝓼𝓼𝓮𝓵𝓵<br>
+ℭ𝔞𝔰𝔰𝔢𝔩𝔩<br>
+𝕮𝖆𝖘𝖘𝖊𝖑𝖑<br>
+𝙲𝚊𝚜𝚜𝚎𝚕𝚕<br>
+ℂ𝕒𝕤𝕤𝕖𝕝𝕝<br>
+Ⓒⓐⓢⓢⓔⓛⓛ<br>
+🄲🄰🅂🅂🄴🄻🄻</p>
 ]]></content>
     </entry>
     <entry>
