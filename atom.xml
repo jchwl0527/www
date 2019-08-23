@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-23T04:09:02.081Z</updated>
+    <updated>2019-08-23T04:13:40.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://jchwl0527.github.io/www/post/Theseus">
         </link>
         <updated>2019-08-23T04:06:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
+]]></summary>
         <content type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
+<!-- more -->
 <p>公元1世纪的时候普鲁塔克提出一个问题：如果忒修斯的船上的木头被逐渐替换，直到所有的木头都不是原来的木头，那这艘船还是原来的那艘船吗？<br>
 因此这类问题现在被称作“忒修斯之船”的问题。<br>
 有些哲学家认为是同一物体，有些哲学家认为不是。<br>
@@ -93,9 +96,13 @@
         <link href="https://jchwl0527.github.io/www/post/O_O">
         </link>
         <updated>2019-08-18T09:43:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>---倘若这个世界依旧温暖<br>
+希望看到这篇文章的你们</p>
+]]></summary>
         <content type="html"><![CDATA[<p>---倘若这个世界依旧温暖<br>
-希望看到这篇文章的你们<br>
-永远幸福<br>
+希望看到这篇文章的你们</p>
+<!-- more -->
+<p>永远幸福<br>
 永远健康<br>
 我是个错误<br>
 我并不想来到这个世界<br>
