@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-08-23T04:15:47.987Z</updated>
+    <updated>2019-08-24T03:00:01.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[青州纵横三万里，江湖不过一隅也。]]></title>
+        <id>https://jchwl0527.github.io/www/post/world</id>
+        <link href="https://jchwl0527.github.io/www/post/world">
+        </link>
+        <updated>2019-08-24T02:59:05.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>青州纵横三万里，江湖不过一隅也。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忒修斯之船 （悖论）]]></title>
         <id>https://jchwl0527.github.io/www/post/Theseus</id>
