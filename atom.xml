@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-10-22T03:23:32.912Z</updated>
+    <updated>2019-10-22T03:57:00.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2019, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[师傅，大侠是什么？___终]]></title>
+        <id>https://jchwl0527.github.io/www/post/shi-fu-da-xia-shi-shi-me-___-zhong</id>
+        <link href="https://jchwl0527.github.io/www/post/shi-fu-da-xia-shi-shi-me-___-zhong">
+        </link>
+        <updated>2019-10-22T03:56:21.000Z</updated>
+        <content type="html"><![CDATA[<p>“所以，你明白大侠到底是什么了吗？”</p>
+<p>“师傅，我明白了。”</p>
+<p>“哦？说说看。”</p>
+<p>“师傅你和我说了很多，在你说的故事里，大侠又等同于馒头，又等同于一个名字，甚至等同于一张嘴，似乎并没有一个确切的答案，但有一点，对于每个故事却都是相似的，我想，那就是大侠。”</p>
+<p>“是什么？”</p>
+<p>“大侠等同于我们每一个人的心。”</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[师傅，大侠是什么？___叁]]></title>
         <id>https://jchwl0527.github.io/www/post/shi-fu-da-xia-shi-shi-me-___-san</id>
@@ -246,30 +260,6 @@
 ℂ𝕒𝕤𝕤𝕖𝕝𝕝<br>
 Ⓒⓐⓢⓢⓔⓛⓛ<br>
 🄲🄰🅂🅂🄴🄻🄻</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倘若这个世界依旧温暖]]></title>
-        <id>https://jchwl0527.github.io/www/post/O_O</id>
-        <link href="https://jchwl0527.github.io/www/post/O_O">
-        </link>
-        <updated>2019-08-18T09:43:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>---倘若这个世界依旧温暖</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>---倘若这个世界依旧温暖</p>
-<!-- more -->
-<p>希望看到这篇文章的你们<br>
-永远幸福<br>
-永远健康<br>
-我是个错误<br>
-我并不想来到这个世界<br>
-那些曾经被我伤害过的人<br>
-希望将来我的离开<br>
-会给你带来好运<br>
-那么祝君晚安   :）<br>
-|(´･･)<br>
-|･･)<br>
-|･)</p>
 ]]></content>
     </entry>
 </feed>
