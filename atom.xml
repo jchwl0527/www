@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2019-10-22T12:54:53.041Z</updated>
+    <updated>2019-12-31T15:15:51.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -303,21 +303,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[手札 · 死亡]]></title>
-        <id>https://jchwl0527.github.io/www/post/kill</id>
-        <link href="https://jchwl0527.github.io/www/post/kill">
-        </link>
-        <updated>2019-09-19T03:14:09.000Z</updated>
-        <content type="html"><![CDATA[<p>她死了<br>
-今天凌晨4点左右<br>
-割腕自杀了<br>
-在自己的床上<br>
-她和我说过她有抑郁症<br>
-但我没想到这一刻还是到来了</p>
-<p>我的'朋友们'，在一天一天的减少啊.</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[青州纵横三万里，江湖不过一隅也。]]></title>
         <id>https://jchwl0527.github.io/www/post/world</id>
         <link href="https://jchwl0527.github.io/www/post/world">
@@ -351,6 +336,37 @@
 问题是，最终产生的这艘船是否还是原来的那艘特修斯之船，还是一艘完全不同的船？<br>
 如果不是原来的船，那么在什么时候它不再是原来的船了？<br>
 哲学家托马斯·霍布斯后来对此进行了延伸，如果用特修斯之船上取下来的老部件来重新建造一艘新的船，那么两艘船中哪艘才是真正的特修斯之船？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web端网易云音乐刷听歌量（Javascript）]]></title>
+        <id>https://jchwl0527.github.io/www/post/music.163.com</id>
+        <link href="https://jchwl0527.github.io/www/post/music.163.com">
+        </link>
+        <updated>2019-08-23T04:01:24.000Z</updated>
+        <content type="html"><![CDATA[<p>网易云音乐的听歌量计数策略是：</p>
+<ul>
+<li>
+<p>收听时间过短不计</p>
+</li>
+<li>
+<p>重复收听不计</p>
+</li>
+<li>
+<p>每天上限300首</p>
+</li>
+<li>
+<p>Web端和Windows、Android、iPhone、MAC客户端均计数</p>
+</li>
+</ul>
+<p>根据这些策略，最好的办法就是使用Web端，因为有Console这个神器。</p>
+<p>首先打开Chrome或Firefox浏览器，进入<a href="http://music.163.com">网易云音乐</a>，然后找个歌曲多一点的歌单，添加到播放列表。</p>
+<p>接着用F12调出控制台，进入Console选项卡</p>
+<p>然后输入代码</p>
+<pre><code>setInterval('document.getElementsByClassName(&quot;nxt&quot;)[0].click();console.log(&quot;Play OJBK. Next&quot;)',90000);
+</code></pre>
+<p>原理是通document.getElementsByClassName找到classname为nxt的按钮，其实也就是下一首的播放按钮，然后执行click操作。每90秒执行一次。</p>
+<p>这样，90秒就会播放一首歌，妈妈再也不用担心我升不了级啦<sub>(≧▽≦)/</sub>啦</p>
 ]]></content>
     </entry>
 </feed>
