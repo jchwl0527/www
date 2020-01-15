@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jchwl0527.github.io/www</id>
+    <id>http://localhost:4000</id>
     <title>守夜人</title>
-    <updated>2020-01-15T05:04:22.573Z</updated>
+    <updated>2020-01-15T05:06:04.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jchwl0527.github.io/www"/>
-    <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>❤动漫|音乐|游戏 
 ☑宅 ☑强迫症 ☑拖延症 
 ☑闹钟免疫技能MAX ☑萝莉控 
 ☑社恐症&lt;br&gt;
 一直被模仿,未被超越!</subtitle>
-    <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
-    <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
     <entry>
         <title type="html"><![CDATA[这个世界，你看到的也许只是其中一面]]></title>
-        <id>https://jchwl0527.github.io/www/zhe-ge-shi-jie-ni-kan-dao-de-ye-xu-zhi-shi-qi-zhong-yi-mian</id>
-        <link href="https://jchwl0527.github.io/www/zhe-ge-shi-jie-ni-kan-dao-de-ye-xu-zhi-shi-qi-zhong-yi-mian">
+        <id>http://localhost:4000/zhe-ge-shi-jie-ni-kan-dao-de-ye-xu-zhi-shi-qi-zhong-yi-mian</id>
+        <link href="http://localhost:4000/zhe-ge-shi-jie-ni-kan-dao-de-ye-xu-zhi-shi-qi-zhong-yi-mian">
         </link>
         <updated>2020-01-15T05:02:34.000Z</updated>
         <content type="html"><![CDATA[<p>而另一面的真实世界，你可能没有机会看到。</p>
@@ -32,14 +32,12 @@
 <p>两人互相微笑了一下，各走各的。中年人心里想，这家伙真能吃，那些红薯可是好几斤呢。</p>
 <p>第二天晚上，中年人照常出来卖红薯。那帮干活的人经过他的推车时说，你的红薯真好吃。</p>
 <p>中年人嘿嘿一笑，心里说，你们舍得买么？</p>
-<p>1024<br>
-https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B9%9F%E8%AE%B8%E5%8F%AA%E6%98%AF%E5%85%B6%E4%B8%AD%E4%B8%80%E9%9D%A2</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[聊聊网警是如何抓到你的]]></title>
-        <id>https://jchwl0527.github.io/www/wangjingzhuaren</id>
-        <link href="https://jchwl0527.github.io/www/wangjingzhuaren">
+        <id>http://localhost:4000/wangjingzhuaren</id>
+        <link href="http://localhost:4000/wangjingzhuaren">
         </link>
         <updated>2019-10-22T12:31:36.000Z</updated>
         <content type="html"><![CDATA[<p>这段时间一直在准备面试，趁晚上有空，和大家聊聊网警查水表的那些事。</p>
@@ -127,8 +125,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[不要经常和一个人聊天，久了会喜欢]]></title>
-        <id>https://jchwl0527.github.io/www/bu-yao-jing-chang-he-yi-ge-ren-liao-tian-jiu-liao-hui-xi-huan</id>
-        <link href="https://jchwl0527.github.io/www/bu-yao-jing-chang-he-yi-ge-ren-liao-tian-jiu-liao-hui-xi-huan">
+        <id>http://localhost:4000/bu-yao-jing-chang-he-yi-ge-ren-liao-tian-jiu-liao-hui-xi-huan</id>
+        <link href="http://localhost:4000/bu-yao-jing-chang-he-yi-ge-ren-liao-tian-jiu-liao-hui-xi-huan">
         </link>
         <updated>2019-10-22T10:25:17.000Z</updated>
         <content type="html"><![CDATA[<p>“哎，你说他每天都找我聊天，是不是喜欢我啊？但是他为什么又不表白呢？”一天，朋友这样问我。</p>
@@ -184,8 +182,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[师傅，大侠是什么？___终]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-zhong</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-zhong">
+        <id>http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-zhong</id>
+        <link href="http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-zhong">
         </link>
         <updated>2019-10-22T03:56:21.000Z</updated>
         <content type="html"><![CDATA[<p>“所以，你明白大侠到底是什么了吗？”</p>
@@ -198,8 +196,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[师傅，大侠是什么？___叁]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-san</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-san">
+        <id>http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-san</id>
+        <link href="http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-san">
         </link>
         <updated>2019-10-22T03:16:43.000Z</updated>
         <content type="html"><![CDATA[<p>“师傅，大侠是什么？”</p>
@@ -215,8 +213,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[师傅，大侠是什么？___贰]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-er</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-er">
+        <id>http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-er</id>
+        <link href="http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-er">
         </link>
         <updated>2019-10-22T03:13:20.000Z</updated>
         <content type="html"><![CDATA[<p>“师傅，大侠是什么？”</p>
@@ -234,8 +232,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[师傅，大侠是什么？___壹]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-yi</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-yi">
+        <id>http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-yi</id>
+        <link href="http://localhost:4000/shi-fu-da-xia-shi-shi-me-___-yi">
         </link>
         <updated>2019-10-22T03:11:41.000Z</updated>
         <content type="html"><![CDATA[<p>“师傅，大侠是什么？”</p>
@@ -250,8 +248,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[《凶手不止一个》]]></title>
-        <id>https://jchwl0527.github.io/www/xiongshoubuzhiyige</id>
-        <link href="https://jchwl0527.github.io/www/xiongshoubuzhiyige">
+        <id>http://localhost:4000/xiongshoubuzhiyige</id>
+        <link href="http://localhost:4000/xiongshoubuzhiyige">
         </link>
         <updated>2019-10-22T02:48:40.000Z</updated>
         <content type="html"><![CDATA[<p>凶手不只一个</p>
@@ -330,8 +328,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[青州纵横三万里，江湖不过一隅也。]]></title>
-        <id>https://jchwl0527.github.io/www/world</id>
-        <link href="https://jchwl0527.github.io/www/world">
+        <id>http://localhost:4000/world</id>
+        <link href="http://localhost:4000/world">
         </link>
         <updated>2019-08-24T02:59:05.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -341,8 +339,8 @@ https://1024.com/a/850/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C-%E4%BD%A0%E7%9C%8B%E
     </entry>
     <entry>
         <title type="html"><![CDATA[忒修斯之船 （悖论）]]></title>
-        <id>https://jchwl0527.github.io/www/Theseus</id>
-        <link href="https://jchwl0527.github.io/www/Theseus">
+        <id>http://localhost:4000/Theseus</id>
+        <link href="http://localhost:4000/Theseus">
         </link>
         <updated>2019-08-23T04:06:49.000Z</updated>
         <summary type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
