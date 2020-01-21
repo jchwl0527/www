@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-01-15T05:08:03.032Z</updated>
+    <updated>2020-01-21T01:55:01.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -14,6 +14,24 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[刘慈欣的三体让我相信真的存在外星人]]></title>
+        <id>https://jchwl0527.github.io/www/liu-ci-xin-de-san-ti-rang-wo-xiang-xin-zhen-de-cun-zai-wai-xing-ren</id>
+        <link href="https://jchwl0527.github.io/www/liu-ci-xin-de-san-ti-rang-wo-xiang-xin-zhen-de-cun-zai-wai-xing-ren">
+        </link>
+        <updated>2020-01-21T01:48:28.000Z</updated>
+        <content type="html"><![CDATA[<p>看完三体后，仰望星空都和以前感觉不一样了。黑暗森林法则，大过滤器理论，真希望人类科技能突破发展。不说了，一会买个8块钱的盒饭填一下肚子。</p>
+<p>关于外星生命，物理学家恩里科费米（Enrico Fermi）曾说过&quot;他们都在哪儿呢？&quot;这就是费米悖论(Fermi Paradox)。按照我们人类的常识，如果有外星生命，怎么着也应该露出点蛛丝马迹吧？</p>
+<p>不过，这个人类常识很可能是错误的。</p>
+<p>因为从有历史以来到现在，我们人类积累的知识，相对于无穷无尽的宇宙，还是太少，本质上是因为获取知识的样本太小。比如，现在我们连暗物质和暗能量都还没搞清楚，即使搞清楚了这些，也许还有暗x、暗xx等。</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/01/21/BJtSp2GRQwFIjxn.jpg" alt="Image credit: NASA" loading="lazy"></figure>
+<p>仅银河系就有大约2500亿颗恒星，更别提整个宇宙了，这远远超出我们的想象力。</p>
+<p>地球是1年绕着太阳旋转一圈，太阳则是2.3亿年绕着银河系中心旋转一圈。如果把时间放到以亿为单位的长度中，在1亿年的这个时间内，我们没有发现外星人或者我们没有被外星人发现，不是很正常吗？</p>
+<p>再说，整个银河系和宇宙都是动态运动着的，指不定转到哪里就碰上了外星生命。</p>
+<p>也许，地球已经被外星人光临过，只是那时候还没有人类。</p>
+<p>随着地球上科技的发展，我们探测和观察系外宜居行星的技术能力将大大提高，未来一定会有所发现，因为技术使得我们认知的样本扩大了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这个世界，你看到的也许只是其中一面]]></title>
         <id>https://jchwl0527.github.io/www/zhe-ge-shi-jie-ni-kan-dao-de-ye-xu-zhi-shi-qi-zhong-yi-mian</id>
@@ -335,31 +353,6 @@
         <content type="html"><![CDATA[<blockquote>
 <p>青州纵横三万里，江湖不过一隅也。</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[忒修斯之船 （悖论）]]></title>
-        <id>https://jchwl0527.github.io/www/Theseus</id>
-        <link href="https://jchwl0527.github.io/www/Theseus">
-        </link>
-        <updated>2019-08-23T04:06:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>特修斯之船（又译为忒修斯之船）亦称为忒修斯悖论，是一种有关身份更替的悖论。假定某物体的构成要素被置换后，但它依旧是原来的物体吗？</p>
-<!-- more -->
-<p>公元1世纪的时候普鲁塔克提出一个问题：如果忒修斯的船上的木头被逐渐替换，直到所有的木头都不是原来的木头，那这艘船还是原来的那艘船吗？<br>
-因此这类问题现在被称作“忒修斯之船”的问题。<br>
-有些哲学家认为是同一物体，有些哲学家认为不是。<br>
-在普鲁塔克之前，赫拉克利特、苏格拉底、柏拉图都曾经讨论过相似的问题。<br>
-近代霍布斯和洛克也讨论过该问题。<br>
-这个问题的有许多变种，如“祖父的旧斧头”。</p>
-<p>特修斯之船（The Ship of Theseus），最为古老的思想实验之一。<br>
-最早出自普鲁塔克的记载。<br>
-它描述的是一艘可以在海上航行几百年的船，归功于不间断的维修和替换部件。<br>
-只要一块木板腐烂了，它就会被替换掉，以此类推，直到所有的功能部件都不是最开始的那些了。<br>
-问题是，最终产生的这艘船是否还是原来的那艘特修斯之船，还是一艘完全不同的船？<br>
-如果不是原来的船，那么在什么时候它不再是原来的船了？<br>
-哲学家托马斯·霍布斯后来对此进行了延伸，如果用特修斯之船上取下来的老部件来重新建造一艘新的船，那么两艘船中哪艘才是真正的特修斯之船？</p>
 ]]></content>
     </entry>
 </feed>
