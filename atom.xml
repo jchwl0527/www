@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-01-27T10:08:52.683Z</updated>
+    <updated>2020-01-28T12:45:21.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -14,6 +14,53 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币的十年之路]]></title>
+        <id>https://jchwl0527.github.io/www/Bitcoin-10</id>
+        <link href="https://jchwl0527.github.io/www/Bitcoin-10">
+        </link>
+        <updated>2020-01-28T12:28:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>比特币的横空出世，称得上是绝无仅有的现象，既神秘又刺激。截止2020年1月，比特币已经开采出了1800万个，其总量上限为2100万个。下面是比特币的十年之路：</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>比特币的横空出世，称得上是绝无仅有的现象，既神秘又刺激。截止2020年1月，比特币已经开采出了1800万个，其总量上限为2100万个。下面是比特币的十年之路：</p>
+<!-- more -->
+<p>2008年10月31日<br>
+中本聪Satoshi Nakamoto发布比特币白皮书Bitcoin Whitepaper。</p>
+<p>2009年1月3日<br>
+比特币问世，比特币区块链中的第一个区块-创世区块Genesis Block-产生。</p>
+<p>2009年10月12日<br>
+比特币首次获得价值，5050个比特币卖了5.02美元，约合每个比特币为0.000994美元。</p>
+<p>2010年5月22日<br>
+一个叫做Laszlo Hanyecz的哥们用10000个比特币买了2个披萨，这是比特币首次用于购物。</p>
+<p>2011年3月<br>
+比特币耶稣Roger Ver开始购买比特币，那时一个比特币才0.89美元。之后，聪明的Roger Ver还买下了最好的比特币域名Bitcoin.com和最好的区块链域名Blockchain.com。</p>
+<p>2012年11月28日<br>
+比特币第一次量产减半。</p>
+<p>2013年4月11日<br>
+双胞胎文克莱沃斯兄弟(Winklevoss twins)宣布拥有价值1100万美元的比特币，约10万个比特币。这兄弟俩早在2012年夏天就开始收购比特币了，他们视比特币为最佳投资机会。很多人不理解，笑话他们。</p>
+<p>2013年11月22日<br>
+Richard Branson创建的英国维珍银河宣布将接受比特币进行太空旅行，预示着比特币即将起飞。</p>
+<p>2014年2月24日<br>
+位于日本东京的全球最大比特币交易平台门头沟Mt.Gox关闭。Mt.Gox由Jed McCaleb在2010年7月创建，这哥们可是个大牛人，除了Mt.Gox，他还创建了电驴eDonkey、瑞波币Ripple和恒星项目Stellar。</p>
+<p>2014年<br>
+Dell、Wikipedia、PayPal、Microsoft等大公司宣布接受比特币付款。</p>
+<p>2015年10月8日<br>
+文克莱沃斯兄弟创建的比特币交易平台Gemini获得纽约监管部门的牌照。</p>
+<p>2016年7月9日<br>
+比特币第二次量产减半。</p>
+<p>2017年6月<br>
+比特币总市值超过1000亿美元。</p>
+<p>2017年12月18日<br>
+比特币达到史上最高价格，一枚比特币价值20089美元。</p>
+<p>2018年10月31日<br>
+此时距比特币白皮书问世10年了，比特币价值6337.06美元。</p>
+<p>2019年10月15日<br>
+Satoshi这个英文单词加入了牛津词典中。Satoshi是比特币中最小的货币单位，1聪相当于1个比特币的百万分之一，1 Satoshi = 0.00000001 BTC。</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/01/28/CTmOgBonfebxPkh.png" alt="satoshi" loading="lazy"></figure>
+<p>牛津词典中的satoshi:<a href="https://oed.com/view/Entry/78036595">oed.com</a></p>
+<p>转自<a href="https://1024.com/a/870/%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E8%B7%AF" title="1024">1024</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原题：向八名＂谣言＂发布者致敬]]></title>
         <id>https://jchwl0527.github.io/www/2019-nCoV</id>
@@ -326,86 +373,6 @@
 <p>“啊？”</p>
 <p>“现在我问你，大侠是什么？”</p>
 <p>“大侠等同于一个馒头。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《凶手不止一个》]]></title>
-        <id>https://jchwl0527.github.io/www/xiongshoubuzhiyige</id>
-        <link href="https://jchwl0527.github.io/www/xiongshoubuzhiyige">
-        </link>
-        <updated>2019-10-22T02:48:40.000Z</updated>
-        <content type="html"><![CDATA[<p>凶手不只一个</p>
-<p>作词：小人</p>
-<p>作曲：小人</p>
-<p>《第一话》</p>
-<p>有个高中生从大楼跳下伤重不治</p>
-<p>有个父亲看著新闻指责这个高中生的不是</p>
-<p>然後他对他儿子说 自杀是不孝的</p>
-<p>赶快去念书 还要靠你养的</p>
-<p>有个校长得知校内有个学生寻死</p>
-<p>马上连络电视台 请求不要公开学校的名字</p>
-<p>有个网友看到这则新闻马上po</p>
-<p>谴责少年逃避现实的留言马上多</p>
-<p>有个路人 曾看到被殴打的死者</p>
-<p>死者看著路人 路人只是看著死者</p>
-<p>有群记者 对死者的双亲穷追不舍</p>
-<p>问说「儿子死了 会不会觉得不舍」</p>
-<p>而有个官员 则是把这件事当消遣</p>
-<p>因为可以转移他那诽闻的焦点</p>
-<p>刑警在现场发现死者虐猫的照片</p>
-<p>上面写著「你要以死来作为道歉」</p>
-<p>(Chorus)《刑警笔记簿的一角》</p>
-<p>凶手不只一个 死者不只一个</p>
-<p>被害的加害者 加害的被害者</p>
-<p>人们何时开始如此彼此对待著</p>
-<p>受伤的人不只一个 伤害的人不只一个</p>
-<p>有些伤看不见的 人如此彼此对待著</p>
-<p>《第二话》</p>
-<p>死者生前被霸凌的新闻登上版面</p>
-<p>有个妈妈觉得无聊 就把报纸翻面</p>
-<p>她小孩吵著要走 她叫他不要插嘴</p>
-<p>然後牵著小孩的手在超商里插队</p>
-<p>有个少年看著自己的钱被用马桶冲走</p>
-<p>旁边的同学围著他 喊著「凶手」</p>
-<p>他回到家里发现脸书被人灌爆</p>
-<p>有个留言写著「干！你杀人犯！操」</p>
-<p>他爸问他为何要逼同学走上绝路</p>
-<p>他说他只是看不惯人欺负动物</p>
-<p>他爸说「算了，重点是把大学考到」</p>
-<p>那天夜里他看著手腕拿起了小刀</p>
-<p>有群女孩笑著讨论那割腕的少年</p>
-<p>有一个说死了也好 长得很讨厌</p>
-<p>有名刑警 听著她们对话打了冷颤</p>
-<p>他在想 这些人是没杀人的杀人犯</p>
-<p>(Chorus)《刑警笔记簿的一角》</p>
-<p>凶手不只一个 死者不只一个</p>
-<p>被害的加害者 加害的被害者</p>
-<p>人们何时开始如此彼此对待著</p>
-<p>受伤的人不只一个 伤害的人不只一个</p>
-<p>有些伤看不见的 人如此彼此对待著</p>
-<p>《最终话》</p>
-<p>刑警前往礼堂 但步伐很勉强</p>
-<p>他受邀针对校园暴力作一场演讲</p>
-<p>身旁经过的学生 他们笑容洋溢</p>
-<p>他不确定 那是否只是种防御</p>
-<p>他想起自己的女儿 也正值这岁数</p>
-<p>而有些热情在这个年纪就结束</p>
-<p>他自认和女儿相处的很好 没太多争吵</p>
-<p>但也会担心对她其实所知甚少</p>
-<p>有个老师边抱怨学生边带著他到会客室</p>
-<p>他感觉到自己的耐性正在被测试</p>
-<p>老师模仿起侦探说：「犯人只有一个」</p>
-<p>刑警心想 错 犯人不只一个</p>
-<p>有些指纹没留下</p>
-<p>那致命伤没多大</p>
-<p>而死者不说话</p>
-<p>案件布幕已落下</p>
-<p>(Chorus)《刑警笔记簿的一角》</p>
-<p>凶手不只一个 死者不只一个</p>
-<p>被害的加害者 加害的被害者</p>
-<p>人们何时开始如此彼此对待著</p>
-<p>受伤的人不只一个 伤害的人不只一个</p>
-<p>有些伤看不见的 人如此彼此对待著</p>
 ]]></content>
     </entry>
 </feed>
