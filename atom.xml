@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-01-28T12:52:03.485Z</updated>
+    <updated>2020-01-30T06:25:04.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -14,6 +14,18 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[2035]]></title>
+        <id>https://jchwl0527.github.io/www/2035</id>
+        <link href="https://jchwl0527.github.io/www/2035">
+        </link>
+        <updated>2020-01-30T06:23:15.000Z</updated>
+        <content type="html"><![CDATA[<p>到2035年，<br>
+人类的思维不可能，<br>
+也不应该可以继续跟上人工智能机器人的步伐了。<br>
+---格雷斯科特</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币的十年之路]]></title>
         <id>https://jchwl0527.github.io/www/Bitcoin-10</id>
@@ -357,22 +369,6 @@ Satoshi这个英文单词加入了牛津词典中。Satoshi是比特币中最小
 <p>“啊？”</p>
 <p>“现在我问你，大侠是什么？”</p>
 <p>“大侠等同于一个名字。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[师傅，大侠是什么？___壹]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-yi</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-yi">
-        </link>
-        <updated>2019-10-22T03:11:41.000Z</updated>
-        <content type="html"><![CDATA[<p>“师傅，大侠是什么？”</p>
-<p>“大侠等同于一个馒头。”</p>
-<p>“大侠等同于一个馒头？”</p>
-<p>“有个人他武功高强，在当地小有名声，人人仰慕他，他逐渐财色兼收；天有不测，当地在某一年迎来了大饥荒，饿殍遍地，于是他带着财产，就背井离乡了。”</p>
-<p>“而另一个人一生碌碌无为，贫困潦倒，甚至往往还需要别人的接济，可在饥荒年间临终之际，他却将最后一个馒头分给了一个孩子。”</p>
-<p>“啊？”</p>
-<p>“现在我问你，大侠是什么？”</p>
-<p>“大侠等同于一个馒头。”</p>
 ]]></content>
     </entry>
 </feed>
