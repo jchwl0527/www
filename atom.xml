@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-02-04T11:51:40.190Z</updated>
+    <updated>2020-02-05T07:17:13.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -14,6 +14,27 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你有大量手机，你就可以愚弄谷歌地图]]></title>
+        <id>https://jchwl0527.github.io/www/SB-Googlemap</id>
+        <link href="https://jchwl0527.github.io/www/SB-Googlemap">
+        </link>
+        <updated>2020-02-05T07:07:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>虽然这个世界看上去很忙碌，但依然有一部分人不用为生计发愁，吃了睡睡了吃。同时也有一部分有意思的人，他们会鼓捣一些有趣的事儿，给忙碌的生活带来一点乐趣。一位叫做Simon Weckert的哥们，就恶搞出来一个让谷歌地图懵B的事儿，让人噗嗤一笑。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>虽然这个世界看上去很忙碌，但依然有一部分人不用为生计发愁，吃了睡睡了吃。同时也有一部分有意思的人，他们会鼓捣一些有趣的事儿，给忙碌的生活带来一点乐趣。一位叫做Simon Weckert的哥们，就恶搞出来一个让谷歌地图懵B的事儿，让人噗嗤一笑。</p>
+<!-- more -->
+<p>Simon Weckert是一位生活在德国柏林的艺术家，他使用一个小拉车，拉着99台二手的智能手机在大街上走，每部手机都开着谷歌地图，通过GPS实施定位和上传数据，使得谷歌地图中他走过的大街产生了交通拥堵的现象，绿色的街道变成了红色街道。汽车导航会被提示交通拥堵，出门的人也会避开这条街，但实际上，大街上连个毛都没有。</p>
+<p>由此可见，谁手里要是拥有大量手机，真的会在数据世界里称霸一方，至少是有影响力的人物。</p>
+<p>谷歌应当重视此事，因为太多的APP和Web使用到了地图功能，一旦地图数据被恶搞，将有很多用户会受到影响，甚至会影响到救护车的急救。</p>
+<p><img src="https://i.loli.net/2020/02/05/1KFQxrlqTtyks7L.jpg" alt="1.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/02/05/s7tGoliHZUj1M4x.jpg" alt="11.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/02/05/NXpkfi7v5YngTyD.jpg" alt="111.jpg" loading="lazy"><br>
+Image credit: Simon Weckert</p>
+<p>Simon Weckert的网站：<a href="http://simonweckert.com/googlemapshacks.html">Simon Weckert</a></p>
+<p>转载自<a href="https://1024.com/a/880/%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%9C%89%E5%A4%A7%E9%87%8F%E6%89%8B%E6%9C%BA-%E4%BD%A0%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%84%9A%E5%BC%84%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE">1024</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梁建章：出国受限后 需要更畅通的国际网络]]></title>
         <id>https://jchwl0527.github.io/www/20200204</id>
@@ -375,23 +396,6 @@ Satoshi这个英文单词加入了牛津词典中。Satoshi是比特币中最小
 <p>“师傅你和我说了很多，在你说的故事里，大侠又等同于馒头，又等同于一个名字，甚至等同于一张嘴，似乎并没有一个确切的答案，但有一点，对于每个故事却都是相似的，我想，那就是大侠。”</p>
 <p>“是什么？”</p>
 <p>“大侠等同于我们每一个人的心。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[师傅，大侠是什么？___叁]]></title>
-        <id>https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-san</id>
-        <link href="https://jchwl0527.github.io/www/shi-fu-da-xia-shi-shi-me-___-san">
-        </link>
-        <updated>2019-10-22T03:16:43.000Z</updated>
-        <content type="html"><![CDATA[<p>“师傅，大侠是什么？”</p>
-<p>“大侠等同于一张嘴。”</p>
-<p>“大侠等同于一张嘴？”</p>
-<p>“有个人他的父母曾可安享晚年，却因为他饱受欺凌；他的妻子嫁给他之前花容月貌，嫁给他之后时常担惊受怕，皱纹横生；他的孩子曾天真烂漫，却因为他而死。你有没有觉得他为人糟糕透顶？”</p>
-<p>“嗯。”</p>
-<p>“但之所以会这样，是因为有人全家被纵火烧死，又有人被欺凌虐待致死，却无人出声，无人敢出声，他一介蝇头小官，收集证据，不断上告，不断上告，这一路，才导致的丢了乌纱，家底被抄，妻离子散，几度遭暗杀。也就是这么一个人，才铲除了朝廷最大的毒瘤，让更多的人得以安家。”</p>
-<p>“啊？”</p>
-<p>“现在我问你，大侠是什么？”</p>
-<p>“大侠等同于一张嘴。”</p>
 ]]></content>
     </entry>
 </feed>
