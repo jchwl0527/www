@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-02-25T10:41:56.350Z</updated>
+    <updated>2020-03-01T14:04:49.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -15,9 +15,41 @@
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
     <entry>
+        <title type="html"><![CDATA[Let's Encrypt，世界上最大的免费HTTPS/SSL证书颁发机构]]></title>
+        <id>https://jchwl0527.github.io/www/Let&apos;s Encrypt/</id>
+        <link href="https://jchwl0527.github.io/www/Let&apos;s Encrypt/">
+        </link>
+        <updated>2020-03-01T13:53:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>2020年2月27日，Josh Aas和Sarah Gran在letsencrypt.org发文称，Let's Encrypt已经发放了10亿个HTTPS证书。HTTPS证书又叫做SSL证书，是安装在Web服务器中的数字证书，以证明该网站安全。点击浏览器地址栏左侧的小锁图标，再点击证书选项就可以看到SSL证书的详情了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2020年2月27日，Josh Aas和Sarah Gran在letsencrypt.org发文称，Let's Encrypt已经发放了10亿个HTTPS证书。HTTPS证书又叫做SSL证书，是安装在Web服务器中的数字证书，以证明该网站安全。点击浏览器地址栏左侧的小锁图标，再点击证书选项就可以看到SSL证书的详情了。</p>
+<!-- more -->
+<p>从2018年7月份起，谷歌的Chrome浏览器开始将HTTP网站标记为不安全，意在让大家的网站都升级为更安全的HTTPS网站。此举大大加速了网站安装SSL证书的进程，而Let's Encrypt正是此举的受益者。</p>
+<figure data-type="image" tabindex="1"><a href="#"><img src="https://pan.hongtu.me/img/3bc043c562876d2b9205514a2f3f658d.png" alt="Let's Encrypt" loading="lazy"></a></figure>
+<p>从历史上来看，今天人类的技术已经是相当NB了。在这个社会里，几乎每个人都离不开技术。对于一个人来说，想要掌握一项技术，最佳的方式就是置身于一个技术公司里，技术公司的技术积累和传承，再加上实践，进步很快。当然，这个公司的技术要么很强，要么很创新。而Let's Encrypt，正是诞生于这样的一个公司，Mozilla。</p>
+<p>2012年，当时还在Mozilla工作的Josh Aas和Eric Rescorla，正带领团队做一个免费自动证书颁发机构的项目。到了2013年，Josh Aas他们和在开发自动颁发和更新证书协议的密歇根大学的Alex Halderman等人合作，一起成立了一个公益组织，Internet Security Research Group (ISRG) ，这个组织就是后来的Let's Encrypt证书颁发机构背后的法律实体。</p>
+<p>在2014年7月7日，Josh Aas注册了域名letsencrypt.com和letsencrypt.org，他们已经准备向公众提供服务了。到了2015年12月3日，ISRG的项目Let's Encrypt开始对外颁发SSL证书。</p>
+<p>证书颁发机构（Certificate Authority, CA）颁发的SSL证书主要有三类：</p>
+<p>Domain Validated Certificates (DV Certificates)<br>
+域名验证（DV证书）。CA使用域名的WHOIS邮箱或验证文件（需要放在网站中）进行验证，以确认域名是由请求DV证书的人在使用和控制。DV证书价格较低，申请快捷，适合中小型网站、个人网站。</p>
+<p>Organization Validated (OV Certificates)<br>
+组织验证（OV证书）</p>
+<p>Extended Validation (EV Certificates)<br>
+扩展验证（EV证书）</p>
+<p>Let's Encrypt提供的是免费的DV证书。DV证书虽然没有OV证书和EV证书的信任级别高，但验证个网站已经够用了。很多托管和CDN提供商集成了Let's Encrypt的服务，可以自动为用户的网站提供免费的DV证书，这一点也有利于Let's Encrypt的发展。</p>
+<p>在SSL市场中，像GoDaddy、Comodo/Sectigo、GeoTrust、DigiCert、Symantec等CA机构的SSL证书，一年的证书费用都在几十美元、几百美元甚至几千美元，而Let's Encrypt直接免费。</p>
+<p>到2020年2月27日，4年多点的时间，Let's Encrypt颁发的证书数量达到10亿，大多数HTTPS网站都使用Let's Encrypt的免费证书，其有效证书的使用量超过了所有其它受浏览器信任的CA颁发的证书量的总和。</p>
+<p>免费，易用，是占领市场的王道。</p>
+<p>Internet Security Research Group：<br>
+<a href="https://www.abetterinternet.org/">https://www.abetterinternet.org/</a></p>
+<p>Let's Encrypt：<br>
+<a href="https://letsencrypt.org/">https://letsencrypt.org/</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【有趣】各大高校使用的中文域名]]></title>
-        <id>https://jchwl0527.github.io/www/hahaeduname</id>
-        <link href="https://jchwl0527.github.io/www/hahaeduname">
+        <id>https://jchwl0527.github.io/www/hahaeduname/</id>
+        <link href="https://jchwl0527.github.io/www/hahaeduname/">
         </link>
         <updated>2020-02-25T10:40:31.000Z</updated>
         <content type="html"><![CDATA[<h1 id="第一梯队">第一梯队</h1>
@@ -44,8 +76,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[有时候你应该明白]]></title>
-        <id>https://jchwl0527.github.io/www/001</id>
-        <link href="https://jchwl0527.github.io/www/001">
+        <id>https://jchwl0527.github.io/www/001/</id>
+        <link href="https://jchwl0527.github.io/www/001/">
         </link>
         <updated>2020-02-23T06:09:16.000Z</updated>
         <content type="html"><![CDATA[<p>有时候你应该明白，你选择了网络聊天，他人就可能无法及时联络你，不管他上一句回复你有多快。<br>
@@ -54,8 +86,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[史上超贵的域名成交记录]]></title>
-        <id>https://jchwl0527.github.io/www/Domainname</id>
-        <link href="https://jchwl0527.github.io/www/Domainname">
+        <id>https://jchwl0527.github.io/www/Domainname/</id>
+        <link href="https://jchwl0527.github.io/www/Domainname/">
         </link>
         <updated>2020-02-23T05:59:25.000Z</updated>
         <content type="html"><![CDATA[<p>g.cn域名2000万美元</p>
@@ -100,8 +132,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一名黑客写下的情书 不知你能看懂么？]]></title>
-        <id>https://jchwl0527.github.io/www/hack-love</id>
-        <link href="https://jchwl0527.github.io/www/hack-love">
+        <id>https://jchwl0527.github.io/www/hack-love/</id>
+        <link href="https://jchwl0527.github.io/www/hack-love/">
         </link>
         <updated>2020-02-12T06:34:55.000Z</updated>
         <content type="html"><![CDATA[<p>黑客技术学的再好</p>
@@ -144,8 +176,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[转]史记 · 武汉疫情八造谣者传序]]></title>
-        <id>https://jchwl0527.github.io/www/C137-S-wh</id>
-        <link href="https://jchwl0527.github.io/www/C137-S-wh">
+        <id>https://jchwl0527.github.io/www/C137-S-wh/</id>
+        <link href="https://jchwl0527.github.io/www/C137-S-wh/">
         </link>
         <updated>2020-02-07T15:42:36.000Z</updated>
         <content type="html"><![CDATA[<p>庚子之年，建寅之月，流疫掠及荆楚之地，并有席卷华夏，并吞八荒之势。当此之时，上下举国之物力，以表赤诚之心：钟老身披执锐，老当益壮；白衣志士请缨，敢竭彼怀，见其仁爱济世之心；黎民之辈，纷纷效其拳拳之劳，唯愿拔丁抽楔、国泰民安矣。</p>
@@ -166,8 +198,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[［好文分享］当疫情结束之后，我们将经历什么]]></title>
-        <id>https://jchwl0527.github.io/www/20200207</id>
-        <link href="https://jchwl0527.github.io/www/20200207">
+        <id>https://jchwl0527.github.io/www/20200207/</id>
+        <link href="https://jchwl0527.github.io/www/20200207/">
         </link>
         <updated>2020-02-07T11:44:28.000Z</updated>
         <content type="html"><![CDATA[<p>那一天在漫长等待后终于到来。</p>
@@ -281,8 +313,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如果你有大量手机，你就可以愚弄谷歌地图]]></title>
-        <id>https://jchwl0527.github.io/www/SB-Googlemap</id>
-        <link href="https://jchwl0527.github.io/www/SB-Googlemap">
+        <id>https://jchwl0527.github.io/www/SB-Googlemap/</id>
+        <link href="https://jchwl0527.github.io/www/SB-Googlemap/">
         </link>
         <updated>2020-02-05T07:07:58.000Z</updated>
         <summary type="html"><![CDATA[<p>虽然这个世界看上去很忙碌，但依然有一部分人不用为生计发愁，吃了睡睡了吃。同时也有一部分有意思的人，他们会鼓捣一些有趣的事儿，给忙碌的生活带来一点乐趣。一位叫做Simon Weckert的哥们，就恶搞出来一个让谷歌地图懵B的事儿，让人噗嗤一笑。</p>
@@ -302,8 +334,8 @@ Image credit: Simon Weckert</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[梁建章：出国受限后 需要更畅通的国际网络]]></title>
-        <id>https://jchwl0527.github.io/www/20200204</id>
-        <link href="https://jchwl0527.github.io/www/20200204">
+        <id>https://jchwl0527.github.io/www/20200204/</id>
+        <link href="https://jchwl0527.github.io/www/20200204/">
         </link>
         <updated>2020-02-04T11:44:38.000Z</updated>
         <content type="html"><![CDATA[<p>作者：梁建章<br>
@@ -344,61 +376,14 @@ Image credit: Simon Weckert</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2035]]></title>
-        <id>https://jchwl0527.github.io/www/2035</id>
-        <link href="https://jchwl0527.github.io/www/2035">
+        <id>https://jchwl0527.github.io/www/2035/</id>
+        <link href="https://jchwl0527.github.io/www/2035/">
         </link>
         <updated>2020-01-30T06:23:15.000Z</updated>
         <content type="html"><![CDATA[<p>到2035年，<br>
 人类的思维不可能，<br>
 也不应该可以继续跟上人工智能机器人的步伐了。<br>
 ---格雷斯科特</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币的十年之路]]></title>
-        <id>https://jchwl0527.github.io/www/Bitcoin-10</id>
-        <link href="https://jchwl0527.github.io/www/Bitcoin-10">
-        </link>
-        <updated>2020-01-28T12:28:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>比特币的横空出世，称得上是绝无仅有的现象，既神秘又刺激。截止2020年1月，比特币已经开采出了1800万个，其总量上限为2100万个。下面是比特币的十年之路：</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>比特币的横空出世，称得上是绝无仅有的现象，既神秘又刺激。截止2020年1月，比特币已经开采出了1800万个，其总量上限为2100万个。下面是比特币的十年之路：</p>
-<!-- more -->
-<p>2008年10月31日<br>
-中本聪Satoshi Nakamoto发布比特币白皮书Bitcoin Whitepaper。</p>
-<p>2009年1月3日<br>
-比特币问世，比特币区块链中的第一个区块-创世区块Genesis Block-产生。</p>
-<p>2009年10月12日<br>
-比特币首次获得价值，5050个比特币卖了5.02美元，约合每个比特币为0.000994美元。</p>
-<p>2010年5月22日<br>
-一个叫做Laszlo Hanyecz的哥们用10000个比特币买了2个披萨，这是比特币首次用于购物。</p>
-<p>2011年3月<br>
-比特币耶稣Roger Ver开始购买比特币，那时一个比特币才0.89美元。之后，聪明的Roger Ver还买下了最好的比特币域名Bitcoin.com和最好的区块链域名Blockchain.com。</p>
-<p>2012年11月28日<br>
-比特币第一次量产减半。</p>
-<p>2013年4月11日<br>
-双胞胎文克莱沃斯兄弟(Winklevoss twins)宣布拥有价值1100万美元的比特币，约10万个比特币。这兄弟俩早在2012年夏天就开始收购比特币了，他们视比特币为最佳投资机会。很多人不理解，笑话他们。</p>
-<p>2013年11月22日<br>
-Richard Branson创建的英国维珍银河宣布将接受比特币进行太空旅行，预示着比特币即将起飞。</p>
-<p>2014年2月24日<br>
-位于日本东京的全球最大比特币交易平台门头沟Mt.Gox关闭。Mt.Gox由Jed McCaleb在2010年7月创建，这哥们可是个大牛人，除了Mt.Gox，他还创建了电驴eDonkey、瑞波币Ripple和恒星项目Stellar。</p>
-<p>2014年<br>
-Dell、Wikipedia、PayPal、Microsoft等大公司宣布接受比特币付款。</p>
-<p>2015年10月8日<br>
-文克莱沃斯兄弟创建的比特币交易平台Gemini获得纽约监管部门的牌照。</p>
-<p>2016年7月9日<br>
-比特币第二次量产减半。</p>
-<p>2017年6月<br>
-比特币总市值超过1000亿美元。</p>
-<p>2017年12月18日<br>
-比特币达到史上最高价格，一枚比特币价值20089美元。</p>
-<p>2018年10月31日<br>
-此时距比特币白皮书问世10年了，比特币价值6337.06美元。</p>
-<p>2019年10月15日<br>
-Satoshi这个英文单词加入了牛津词典中。Satoshi是比特币中最小的货币单位，1聪相当于1个比特币的百万分之一，1 Satoshi = 0.00000001 BTC。</p>
-<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/01/28/CTmOgBonfebxPkh.png" alt="satoshi" loading="lazy"></figure>
-<p>牛津词典中的satoshi:<a href="https://oed.com/view/Entry/78036595">oed.com</a></p>
-<p>转自<a href="https://1024.com/a/870/%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E8%B7%AF" title="1024">1024</a></p>
 ]]></content>
     </entry>
 </feed>
