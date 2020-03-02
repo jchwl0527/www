@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-03-01T14:04:49.914Z</updated>
+    <updated>2020-03-02T15:10:57.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -14,6 +14,47 @@
     <logo>https://jchwl0527.github.io/www/images/avatar.png</logo>
     <icon>https://jchwl0527.github.io/www/favicon.ico</icon>
     <rights>All rights reserved 2020, 守夜人</rights>
+    <entry>
+        <title type="html"><![CDATA[一个简单实用的网站访客统计PHP源码]]></title>
+        <id>https://jchwl0527.github.io/www/PHPtongji/</id>
+        <link href="https://jchwl0527.github.io/www/PHPtongji/">
+        </link>
+        <updated>2020-03-02T15:09:55.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pan.hongtu.me/img/496e004b3c50ff2be0cf8edaee92dff9.jpg" alt="PHP统计" title="PHP统计" loading="lazy"></figure>
+<h1 id="前言">前言</h1>
+<ul>
+<li>
+<h5 id="一个简单统计网站访客的php源码实现前端网页显示访问量">一个简单统计网站访客的PHP源码，实现前端网页显示访问量</h5>
+</li>
+<li>
+<h5 id="采用pv统计方式单个用户连续点击n篇文章记录n次访问量">采用PV统计方式，单个用户连续点击N篇文章，记录N次访问量</h5>
+</li>
+<li>
+<h5 id="源码会自动生成txt记录文档记录的访问量可以自行修改">源码会自动生成TXT记录文档，记录的访问量可以自行修改</h5>
+</li>
+</ul>
+<h1 id="预览">预览</h1>
+<p><a href="https://sunpma.com/other/coffee" title="https://sunpma.com/other/coffee">https://sunpma.com/other/coffee</a><br>
+<a href="https://sunpma.com/other/jitang" title="https://sunpma.com/other/jitang">https://sunpma.com/other/jitang</a><br>
+<a href="https://xn--yet.xn--v5z.ml./" title="https://小.米.ml./">https://小.米.ml./</a></p>
+<h1 id="源码">源码</h1>
+<h5 id="在网站根目录新建一个名为fktjphp的文件然后写入以下代码">在网站根目录新建一个名为FKTJ.php的文件，然后写入以下代码</h5>
+<p>`</p>
+<?php
+$n=file_get_contents('FKTJ.txt');
+$n++;
+file_put_contents('FKTJ.txt',$n);
+echo "document.write($n);";
+?>
+<p>`</p>
+<h5 id="在需要显示的地方添加以下调用代码">在需要显示的地方添加以下调用代码</h5>
+<p><code>你是第&lt;script type=text/javascript src=FKTJ.php&gt;&lt;/script&gt;位访问者</code></p>
+<h1 id="说明">说明</h1>
+<h5 id="加入调用代码后打开网页会在后台生成一个名为fktjtxt的记录文件编辑此文件可以实现修改访问量">加入调用代码后打开网页，会在后台生成一个名为FKTJ.txt的记录文件，编辑此文件可以实现修改访问量</h5>
+<h5 id="如需统计次目录下的单页访问量可以在次目录下新建fktjphp文件然后添加调用代码即可">如需统计次目录下的单页访问量，可以在次目录下新建FKTJ.php文件，然后添加调用代码即可</h5>
+<h5 id="原文链接"><a href="https://sunpma.com/815.html" title="原文链接">原文链接</a></h5>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let's Encrypt，世界上最大的免费HTTPS/SSL证书颁发机构]]></title>
         <id>https://jchwl0527.github.io/www/Let&apos;s Encrypt/</id>
@@ -372,18 +413,6 @@ Image credit: Simon Weckert</p>
 </li>
 </ol>
 <p>当然具体的管理和技术方案还有很多工作要做，不过总的来说中国强大的软件和技术能力应该能够做成一堵更智能的国际互联网防火墙，既可管控敏感信息，又对于绝大多数的人来说是一道无痛的透明的墙。这样就不会有那么多人不得不用既不安全又不稳定的翻墙软件。如果能够建成这样的智能防火墙，就会把对外交流不畅的代价降到最小。当然，我们希望和祝愿肺炎疫情能够早日平息，国际人员的交流能够尽快恢复，但是同时我们希望大家一起想办法在风险可控的前提下，提升国际网络交流的畅通性，保持中国经济的开放和繁荣。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2035]]></title>
-        <id>https://jchwl0527.github.io/www/2035/</id>
-        <link href="https://jchwl0527.github.io/www/2035/">
-        </link>
-        <updated>2020-01-30T06:23:15.000Z</updated>
-        <content type="html"><![CDATA[<p>到2035年，<br>
-人类的思维不可能，<br>
-也不应该可以继续跟上人工智能机器人的步伐了。<br>
----格雷斯科特</p>
 ]]></content>
     </entry>
 </feed>

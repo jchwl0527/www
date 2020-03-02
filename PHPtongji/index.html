@@ -1,12 +1,12 @@
 
 <html>
-<head lang="zh">
+  <head lang="zh">
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
         <meta content="yes" name="apple-mobile-web-app-capable"/>
         <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
         <meta content="telephone=no" name="format-detection"/>
         <meta name="renderer" content="webkit">
-    <title>守夜人</title>
+    <title>一个简单实用的网站访客统计PHP源码 | 守夜人</title>
 <link href="https://jchwl0527.github.io/www/styles/main.css" type="text/css" rel="stylesheet"/>
 <script type="text/javascript" src="https://jchwl0527.github.io/www/media/scripts/jquery.js"></script>
 <script type="text/javascript" src="https://jchwl0527.github.io/www/media/scripts/basic.js"></script>
@@ -24,7 +24,7 @@
   </head>
 
   <body>
-    <div class="header">
+     <div class="header">
       <div class="logo_title">
 		  
         <div class="title animated fadeInDown"><img src="https://jchwl0527.github.io/www/images/avatar.png?v=1583161851208"/>
@@ -125,6 +125,7 @@
     <div class="main">
       <div class="main-inner">
 
+
 <div class="content">
 
 
@@ -132,25 +133,29 @@
 
 
 
-  <div class="post_list" >
+  <div class="post_page" >
 
-	
 <div class="post">
-  <div class="post_title weaklink">
-    <h2><a href="https://jchwl0527.github.io/www/2035/" >2035</a>
+  <div class="post_title sm_margin">
+    <h2><a>一个简单实用的网站访客统计PHP源码</a>
+
+
+
     </h2>
   </div>
-  <div class="post_content markdown"><div class="p_part"><p></p></div></div>
-  <div class="post_footer">
-    <div class="info weaklink"><i class="fa fa-clock-o"></i>
-<span class="date_info">2020-01-30</span>
+
+  <div class="post_details">
+    <div class="info"><i class="fa fa-clock-o"></i>
+<span class="date_info">2020-03-02</span>
+<i class="fa fa-eye"></i>
+
+<span class="date_info"><span id="busuanzi_value_page_pv"></span> Views</span>
+
 
 <i class="fa fa-bookmark-o"></i>
-	
 <span class="tags_info weaklink">
 	
-	<a href="https://jchwl0527.github.io/www/3YEwXQAFt/" class="tag">AI</a>
-
+	<a href="https://jchwl0527.github.io/www/wAFqiolw1/" class="tag">PHP</a>
 
 
 </span>
@@ -160,19 +165,58 @@
 
   </div>
 
+
+
+
+
+  <div class="post_content markdown"><p class="md_block">
+    <span class="md_line md_line_start md_line_end"><figure data-type="image" tabindex="1"><img src="https://pan.hongtu.me/img/496e004b3c50ff2be0cf8edaee92dff9.jpg" alt="PHP统计" title="PHP统计" loading="lazy"></figure>
+<h1 id="前言">前言</h1>
+<ul>
+<li>
+<h5 id="一个简单统计网站访客的php源码实现前端网页显示访问量">一个简单统计网站访客的PHP源码，实现前端网页显示访问量</h5>
+</li>
+<li>
+<h5 id="采用pv统计方式单个用户连续点击n篇文章记录n次访问量">采用PV统计方式，单个用户连续点击N篇文章，记录N次访问量</h5>
+</li>
+<li>
+<h5 id="源码会自动生成txt记录文档记录的访问量可以自行修改">源码会自动生成TXT记录文档，记录的访问量可以自行修改</h5>
+</li>
+</ul>
+<h1 id="预览">预览</h1>
+<p><a href="https://sunpma.com/other/coffee" title="https://sunpma.com/other/coffee">https://sunpma.com/other/coffee</a><br>
+<a href="https://sunpma.com/other/jitang" title="https://sunpma.com/other/jitang">https://sunpma.com/other/jitang</a><br>
+<a href="https://xn--yet.xn--v5z.ml./" title="https://小.米.ml./">https://小.米.ml./</a></p>
+<h1 id="源码">源码</h1>
+<h5 id="在网站根目录新建一个名为fktjphp的文件然后写入以下代码">在网站根目录新建一个名为FKTJ.php的文件，然后写入以下代码</h5>
+<p>`</p>
+<?php
+$n=file_get_contents('FKTJ.txt');
+$n++;
+file_put_contents('FKTJ.txt',$n);
+echo "document.write($n);";
+?>
+<p>`</p>
+<h5 id="在需要显示的地方添加以下调用代码">在需要显示的地方添加以下调用代码</h5>
+<p><code>你是第&lt;script type=text/javascript src=FKTJ.php&gt;&lt;/script&gt;位访问者</code></p>
+<h1 id="说明">说明</h1>
+<h5 id="加入调用代码后打开网页会在后台生成一个名为fktjtxt的记录文件编辑此文件可以实现修改访问量">加入调用代码后打开网页，会在后台生成一个名为FKTJ.txt的记录文件，编辑此文件可以实现修改访问量</h5>
+<h5 id="如需统计次目录下的单页访问量可以在次目录下新建fktjphp文件然后添加调用代码即可">如需统计次目录下的单页访问量，可以在次目录下新建FKTJ.php文件，然后添加调用代码即可</h5>
+<h5 id="原文链接"><a href="https://sunpma.com/815.html" title="原文链接">原文链接</a></h5>
+</p>
+
+     <p class="md_block">
+<!--	<div class="reward"><div class="reward-button">赏 <span class="reward-code"> <span class="alipay-code"> <img class="alipay-img" src="https://jchwl0527.github.io/www/media/images/alipay.png"><b>支付宝扫码打赏</b> </span> <span class="wechat-code"> <img class="wechat-img" src="https://jchwl0527.github.io/www/media/images/wechat.png"><b>微信打赏</b> </span> </span></div></div>	--!>
+</p> 
 </div>
-	
-	
 
-<div class="paginator pager pagination" >
-	
+</div>
 
 
 
-    <div style="clear:both;height:0;"></div>
+<link href="https://jchwl0527.github.io/www/styles/main.css" type="text/css" rel="stylesheet"/>
 
-
-  </div>
+<div class="doc_comments">
 
 </div>
 
@@ -185,9 +229,12 @@
 
       </div>
 
+
+
+
     </div>
 
-    <div class="footer">
+   <div class="footer">
 <link href="https://jchwl0527.github.io/www/styles/main.css" type="text/css" rel="stylesheet"/><div class="site_footer_wrap"><div class="site_footer">
 
       <div class="mysocials"><div class="my_socials">
