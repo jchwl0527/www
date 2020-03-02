@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchwl0527.github.io/www</id>
     <title>守夜人</title>
-    <updated>2020-03-02T15:10:57.883Z</updated>
+    <updated>2020-03-02T15:15:41.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchwl0527.github.io/www"/>
     <link rel="self" href="https://jchwl0527.github.io/www/atom.xml"/>
@@ -39,14 +39,7 @@
 <a href="https://xn--yet.xn--v5z.ml./" title="https://小.米.ml./">https://小.米.ml./</a></p>
 <h1 id="源码">源码</h1>
 <h5 id="在网站根目录新建一个名为fktjphp的文件然后写入以下代码">在网站根目录新建一个名为FKTJ.php的文件，然后写入以下代码</h5>
-<p>`</p>
-<?php
-$n=file_get_contents('FKTJ.txt');
-$n++;
-file_put_contents('FKTJ.txt',$n);
-echo "document.write($n);";
-?>
-<p>`</p>
+<p><code>&lt;?php $n=file_get_contents('FKTJ.txt'); $n++; file_put_contents('FKTJ.txt',$n); echo &quot;document.write($n);&quot;; ?&gt;</code></p>
 <h5 id="在需要显示的地方添加以下调用代码">在需要显示的地方添加以下调用代码</h5>
 <p><code>你是第&lt;script type=text/javascript src=FKTJ.php&gt;&lt;/script&gt;位访问者</code></p>
 <h1 id="说明">说明</h1>
